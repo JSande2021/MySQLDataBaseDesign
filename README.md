@@ -8,4 +8,16 @@
 
 **Users Table Data Population**
 
-![Users](https://github.com/JSande2021/MySQLDataBaseDesign/blob/main/Users_Table.png)
+![Users](Users_Table.png)
+
+**Orders Table Data Population**
+
+![Orders](Orders_Table.png)
+
+**Order Details Table Data Population**
+
+![Order Details](OrderDetails_table.png)
+
+**Products Table Data Population**
+
+![Products](Products_Table.png)
