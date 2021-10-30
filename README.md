@@ -10,13 +10,19 @@
 
 ![Users](Users_Table.png)
 
+<hr>
+
 **Orders Table Data Population**
 
 ![Orders](Orders_Table.png)
 
+<hr>
+
 **Order Details Table Data Population**
 
 ![Order Details](OrderDetails_table.png)
+
+<hr>
 
 **Products Table Data Population**
 
